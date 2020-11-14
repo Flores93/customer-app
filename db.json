@@ -1,0 +1,36 @@
+{
+  "costumers": [
+    {
+      "nombre": "Jose Luis Flores",
+      "dni": "88883231122",
+      "edad": 26
+    },
+    {
+      "nombre": "Fabiola Pelayo",
+      "dni": "18293729",
+      "edad": 25
+    },
+    {
+      "nombre": "Dummy boy",
+      "dni": "812371891",
+      "edad": 13
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
